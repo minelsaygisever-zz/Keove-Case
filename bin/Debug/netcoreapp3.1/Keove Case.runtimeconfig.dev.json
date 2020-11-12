@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\minel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\minel\\.nuget\\packages"
+    ]
+  }
+}
